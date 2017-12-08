@@ -14,3 +14,14 @@ Additional commands:
 - git commit -m "#2 New Lines"
 - git push
 - git add -A
+- git commit -m "#3 Source code files added"
+
+
+**Table:**
+
+| Manufacturer | Website |
+| ------ | ------ |
+| Microchip | <https://www.microchip.com/> |
+| Raspberry  | <https://www.raspberrypi.org/> |
+| ESP32     | <http://espressif.com/en/products/hardware/esp32/overview> |
+
