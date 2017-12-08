@@ -9,3 +9,5 @@ Repository for test purporses
 - git status
 - git diff README.md
 - git commit -m "#1 Initial Commit"
+
+- Additional commands:
