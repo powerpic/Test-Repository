@@ -10,4 +10,7 @@ Repository for test purporses
 - git diff README.md
 - git commit -m "#1 Initial Commit"
 
-- Additional commands:
+Additional commands:
+- git commit -m "#2 New Lines"
+- git push
+- git add -A
