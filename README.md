@@ -25,3 +25,4 @@ Additional commands:
 | Raspberry  | <https://www.raspberrypi.org/> |
 | ESP32     | <http://espressif.com/en/products/hardware/esp32/overview> |
 
+![picture alt](/esp-wrover-kit_0.png "ESP32")
